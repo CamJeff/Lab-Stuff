@@ -1,0 +1,11 @@
+ON-OFF_basic
+ON-OFF controller with no hysteresis
+Target Temperature: 115.00
+Overshoot: 1.50 °C
+    (difference between target, and maximum temperature)
+Rise Time: 122.39 s
+    (time from first crossing 70°C to first entering ±1°C of target)
+Settling Time: 191.37 s
+Average Power Usage: 7.07
+    (average power used from 70°C to end of data)
+Steady-state Error: 0.41 °C

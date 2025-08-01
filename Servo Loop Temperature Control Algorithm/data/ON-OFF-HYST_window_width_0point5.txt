@@ -1,0 +1,11 @@
+ON-OFF-HYST_window_width_0point5
+ON-OFF controller with a hysteresis window of 0.5°C
+Target Temperature: 115.00
+Overshoot: 1.67 °C
+    (difference between target, and maximum temperature)
+Rise Time: 124.46 s
+    (time from first crossing 70°C to first crossing target)
+Settling Time: 206.80 s
+Average Power Usage: 0.68
+    (average power used from 70°C to end of data)
+Steady-state Error: 0.63 °C

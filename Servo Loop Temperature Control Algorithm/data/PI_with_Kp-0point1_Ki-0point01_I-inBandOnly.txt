@@ -1,0 +1,12 @@
+PI_with_Kp-0point1_Ki-0point01_I-inBandOnly
+PI controller with Kp=0.1, Ki=0.01, integral term only when 0 < P < 1
+Target Temperature: 115.00
+Overshoot: 6.80 °C
+    (difference between target, and maximum temperature)
+Rise Time: 123.20 s
+    (time from first crossing 70°C to first entering ±1°C of target)
+Settling Time: never settled within ±1°C of target
+    (time from first crossing 70°C to remaining within ±1°C of target)
+Average Power Usage: 6.74
+    (average power used from 70°C to end of data)
+Steady-state Error: 0.94 °C
