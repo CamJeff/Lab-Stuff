@@ -1,0 +1,11 @@
+PID_with_Kp-10point000_Ki-5point000_Kd-0point000
+PID controller with Kp=10.0, Ki=5.0, Kd=0.0, integral term only when 0 < P < 1
+Target Temperature: 115.00
+Overshoot: 1.48 °C
+    (difference between target, and maximum temperature)
+Rise Time: 120.70 s
+    (time from first crossing 70°C to first entering ±1°C of target)
+Settling Time: 189.73 s
+Average Power Usage: 7.02
+    (average power used from 70°C to end of data)
+Steady-state Error: 0.42 °C

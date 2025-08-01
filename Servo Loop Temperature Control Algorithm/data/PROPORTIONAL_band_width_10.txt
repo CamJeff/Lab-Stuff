@@ -1,0 +1,12 @@
+PROPORTIONAL_band_width_10
+Proportional controller with a band width of 10°C
+Target Temperature: 115.00
+Overshoot: 1.88 °C
+    (difference between target, and maximum temperature)
+Rise Time: 122.15 s
+    (time from first crossing 70°C to first entering ±1°C of target)
+Settling Time: never settled within ±1°C of target
+    (time from first crossing 70°C to remaining within ±1°C of target)
+Average Power Usage: 7.12
+    (average power used from 70°C to end of data)
+Steady-state Error: 1.72 °C
