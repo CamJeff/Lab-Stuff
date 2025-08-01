@@ -1,0 +1,9 @@
+Generated vertically polarized light by the Brewster's reflected beam, then fed
+through the polariser used in our experiment. This was at maximum intensity
+when the polariser was about 45 degrees through its rotation relative to our
+zero point (50 / 400 steps), and minimum at about 135 degrees (150 / 400 steps).
+
+This means the polariser's axis of polarisation about 45 degrees ahead of that
+measured from it's zero point. Since the laser was at a maximum intensity when
+the polariser was at TODO steps into the cycle, the laser itself was TODO
+polarised in an absolute sense.
