@@ -5,11 +5,13 @@ This repository shows all the materias used to complete each of the labs taken i
 
 ## Lab Reports
 
-| Problem | Languages | :link: |
-| - | - | - |
-| 13 Floors | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/13floors.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/13floors) |
-| A Second Opinion | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/secondopinion.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/secondopinion) |
-| A Shortcut to What? | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/secondopinion.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/shortcuttowhat) |
-| A Tale of Two Queues | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/ataleoftwoqueues.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/ataleoftwoqueues) |
-| A Terrible Fortress | [Python 3](https://github.com/CamJeff/Kattis-Practice/blob/main/Code/aterriblefortress.py) | [![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/aterriblefortress) |
+<div align="center">
 
+| Lab Title | Lab Manual | Lab Report |
+| :---: | :---: | :---: |
+| Poisson Counting Statistics | [Manual 1](https://github.com/CamJeff/Lab-Stuff/blob/main/Poisson%20Counting/counting.pdf) | [Report 1](https://github.com/CamJeff/Lab-Stuff/blob/main/Poisson%20Counting/LabReport.pdf) |
+| Malus/Brewster | [Manual 2](https://github.com/CamJeff/Lab-Stuff/blob/main/Brewster%20and%20Malus%20Laser/Laser%20Handout.pdf) | [Report 2](https://github.com/CamJeff/Lab-Stuff/blob/main/Brewster%20and%20Malus%20Laser/LabReport.pdf) |
+| Temperature Control with Servo Loops | [Manual 3](https://github.com/CamJeff/Lab-Stuff/blob/main/Servo%20Loop%20Temperature%20Control%20Algorithm/tcontrol_2024.pdf) | [Report 3](https://github.com/CamJeff/Lab-Stuff/blob/main/Servo%20Loop%20Temperature%20Control%20Algorithm/LabReport.pdf) |
+| Ising Model Simulation | -- | [Report 4](https://github.com/CamJeff/Lab-Stuff/blob/main/Ising%20Model%20Project/LabReport.pdf) |
+
+</div>
