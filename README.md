@@ -15,3 +15,5 @@ This repository shows all the materias used to complete each of the labs taken i
 | Ising Model Simulation | -- | [Report 4](https://github.com/CamJeff/Lab-Stuff/blob/main/Ising%20Model%20Project/LabReport.pdf) |
 
 </div>
+
+The Ising Model Simulation was the final projecr for the class, and was chosen by myself and my lab partner. This is why there is no Lab Manual.
